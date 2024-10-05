@@ -1,0 +1,76 @@
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\DNet V3 Bot.exe
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\DNet V3 Bot.deps.json
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\DNet V3 Bot.runtimeconfig.json
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\DNet V3 Bot.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\DNet V3 Bot.pdb
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Discord.Net.Commands.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Discord.Net.Core.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Discord.Net.Interactions.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Discord.Net.Rest.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Discord.Net.Webhook.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Yaml.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\System.Interactive.Async.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\YamlDotNet.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\obj\Debug\net6.0\DNet V3 Bot.csproj.AssemblyReference.cache
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\obj\Debug\net6.0\DNet V3 Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\obj\Debug\net6.0\DNet V3 Bot.AssemblyInfoInputs.cache
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\obj\Debug\net6.0\DNet V3 Bot.AssemblyInfo.cs
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\obj\Debug\net6.0\DNet V3 Bot.csproj.CoreCompileInputs.cache
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\obj\Debug\net6.0\DNet V3 Bot.csproj.CopyComplete
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\obj\Debug\net6.0\DNet V3 Bot.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\obj\Debug\net6.0\refint\DNet V3 Bot.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\obj\Debug\net6.0\DNet V3 Bot.pdb
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\obj\Debug\net6.0\DNet V3 Bot.genruntimeconfig.cache
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\obj\Debug\net6.0\ref\DNet V3 Bot.dll
+C:\Users\Romy\Desktop\Discord.Net-V3-Bot-Tutorial-main\bin\Debug\net6.0\ChatGPT.Net.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\DNet V3 Bot.exe
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\DNet V3 Bot.deps.json
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\DNet V3 Bot.runtimeconfig.json
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\DNet V3 Bot.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\DNet V3 Bot.pdb
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\ChatGPT.Net.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Discord.Net.Commands.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Discord.Net.Core.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Discord.Net.Interactions.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Discord.Net.Rest.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Discord.Net.Webhook.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Yaml.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\System.Interactive.Async.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\Romy\Desktop\discord chat gpt\bin\Debug\net6.0\YamlDotNet.dll
+C:\Users\Romy\Desktop\discord chat gpt\obj\Debug\net6.0\DNet V3 Bot.csproj.AssemblyReference.cache
+C:\Users\Romy\Desktop\discord chat gpt\obj\Debug\net6.0\DNet V3 Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romy\Desktop\discord chat gpt\obj\Debug\net6.0\DNet V3 Bot.AssemblyInfoInputs.cache
+C:\Users\Romy\Desktop\discord chat gpt\obj\Debug\net6.0\DNet V3 Bot.AssemblyInfo.cs
+C:\Users\Romy\Desktop\discord chat gpt\obj\Debug\net6.0\DNet V3 Bot.csproj.CoreCompileInputs.cache
+C:\Users\Romy\Desktop\discord chat gpt\obj\Debug\net6.0\DNet V3 Bot.csproj.CopyComplete
+C:\Users\Romy\Desktop\discord chat gpt\obj\Debug\net6.0\DNet V3 Bot.dll
+C:\Users\Romy\Desktop\discord chat gpt\obj\Debug\net6.0\refint\DNet V3 Bot.dll
+C:\Users\Romy\Desktop\discord chat gpt\obj\Debug\net6.0\DNet V3 Bot.pdb
+C:\Users\Romy\Desktop\discord chat gpt\obj\Debug\net6.0\DNet V3 Bot.genruntimeconfig.cache
+C:\Users\Romy\Desktop\discord chat gpt\obj\Debug\net6.0\ref\DNet V3 Bot.dll

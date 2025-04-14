@@ -29,4 +29,9 @@ string infoMessage = "Привет! Я бот, созданный для общ�
             infoMessage += "\nПриятного общения!";
 ```
 
-# Bye
+# Screenshots
+![image](https://github.com/user-attachments/assets/57e0e88b-f0be-49cb-ae29-9a8ca53cfe68)
+
+![image](https://github.com/user-attachments/assets/ba923e9d-4cfc-4a9d-bbcf-277902ae07a2)
+
+![image](https://github.com/user-attachments/assets/e1cb15a5-a55d-481b-b373-7425e8e4075b)

@@ -10,9 +10,9 @@
 
   - you can change the chat gpt settings
 
-Needs improvement/rework
+**Needs improvement/rework**
 
-Currently not working due to chat gpt and discord ban in Russia
+### **Currently not working due to chat gpt and discord ban in Russia**
 
 info command:
 
